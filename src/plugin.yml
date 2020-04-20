@@ -1,0 +1,15 @@
+name: FlameSkyblock
+author: TYSluukie
+version: 0.1
+main: me.tysluukie.skyblock.Main
+
+commands:
+    setrank:
+      usage: /<command> <player> <string>
+      description: setrank
+    hub:
+      usage: /<command>
+      description: hub
+    kitpvp:
+      usage: /<command>
+      description: kingdom
